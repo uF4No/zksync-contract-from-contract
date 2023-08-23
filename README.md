@@ -1,4 +1,7 @@
-# zkSync Hardhat project
+# contract from contract
+
+This is a quick example to demostrate how to deploy a contract from another contract in zkSync Era.
+
 
 This project was scaffolded with [zksync-cli](https://github.com/matter-labs/zksync-cli).
 
